@@ -1,1 +1,1 @@
-# Linear-Regerssion
+#Simple-Linear-Regerssion
